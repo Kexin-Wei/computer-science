@@ -1,4 +1,4 @@
 __MACOSX
 .DS_Store
 __pycache__
-*_code.zip
+*.zip
